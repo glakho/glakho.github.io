@@ -1,5 +1,5 @@
 # React Portfolio
 
-This project is a small portfolio built with React using CDN scripts. It includes a main page with some example text and a "Music" page. Navigation is handled with React Router and a simple menu bar.
+This project previously used CDN scripts to demonstrate a simple portfolio. A new folder, `summary-music-app`, contains a minimal Create React App style project with two routes: **Summary** and **Music**. Install dependencies inside that directory and run `npm start` to view the app locally.
 
-Open `index.html` in your browser to view the site.
+Open `index.html` in the root to view the original static version.
